@@ -1,4 +1,4 @@
-# Sungo – Ecology & Solar Energy HTML Template
+# Sungo – Ecology & Solar Energy React Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/sungo/)
